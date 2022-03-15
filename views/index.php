@@ -9,6 +9,8 @@
 <ul>
     <li><a href="/login">Авторизация</a></li>
     <li><a href="/register">Регистрация</a></li>
+    <li><a href="/Post">Посты</a></li>
+    <li><a href="/category">Категории</a></li>
 </ul>
 <?php
 @include_once 'footer.php'
